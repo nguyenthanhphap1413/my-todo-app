@@ -2,8 +2,6 @@
 
 An App To manage all your tasks with firebase backend.
 
-## ✨ Features :
-
 
 ## ✨ Features :
 - Login/SignUp with Firebase.

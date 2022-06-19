@@ -38,6 +38,8 @@ or
  sh sh/run_app.sh
 ```
 
+or
+
 ```bash
  flutter clean . && flutter pub get && flutter run
 ```

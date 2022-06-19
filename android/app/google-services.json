@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "97684322764",
+    "firebase_url": "https://login-social-1644c.firebaseio.com",
+    "project_id": "login-social-1644c",
+    "storage_bucket": "login-social-1644c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:97684322764:android:f5b65d484d4c14e1444569",
+        "android_client_info": {
+          "package_name": "com.example.test_login_social"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "97684322764-qdsi6oouggnjc5hklfc7cuvki7f1ilu5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.test_login_social",
+            "certificate_hash": "c276768165b4df3a792f2c742d22e3f9fc63b561"
+          }
+        },
+        {
+          "client_id": "97684322764-h1kdjrvf26pdgju4p30g2c4gqbrpn81g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAngkSWHM2t10MTtETvn3a1pY9mWc7atX4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "97684322764-h1kdjrvf26pdgju4p30g2c4gqbrpn81g.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "97684322764-hq5kck2ha28s5cim56ptd51bfhu3bb6e.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.testLoginSocial"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

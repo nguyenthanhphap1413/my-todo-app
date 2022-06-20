@@ -5,7 +5,6 @@ An App To manage all your tasks with firebase backend.
 
 ## ✨ Features :
 - Login/SignUp with Firebase.
-- Login/SignUp with Google Account.
 - Login with anynomus features.
 - CRUD Tasks.
 - Beautiful UI.
@@ -13,6 +12,7 @@ An App To manage all your tasks with firebase backend.
 - Save users login state with local storage Shared Preference
 - Beautiful Animation.
 - The App will notify you when a task begins/ends.
+- Internet listenner.
 
 I'm developing on Flutter Version: 2.10.3
 
